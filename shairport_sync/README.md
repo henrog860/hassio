@@ -4,7 +4,7 @@
 
 ## About
 
-Enables AirPlay audio streaming to Home Assistant.
+Enables AirPlay2 audio streaming to Home Assistant.
 
 [license-shield]: https://img.shields.io/github/license/v3rm0n/addon-shairport-sync.svg
 [version-shield]: https://images.microbadger.com/badges/version/maidok/shairport-sync.svg
