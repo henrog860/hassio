@@ -4,7 +4,7 @@
   "version": "0.0.3",
   "slug": "shairport_sync",
   "description": "Shairport Sync for Hass.io",
-  "url": "https://github.com/lhtfb/addon-shairport-sync",
+  "url": "https://github.com/henrog860/addon-shairport-sync",
   "startup": "application",
   "arch": [
     "aarch64",
