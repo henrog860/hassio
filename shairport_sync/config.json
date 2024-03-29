@@ -1,7 +1,7 @@
 
 {
   "name": "Shairport Sync",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "slug": "shairport_sync",
   "description": "Shairport Sync for Hass.io",
   "url": "https://github.com/henrog860/addon-shairport-sync",
